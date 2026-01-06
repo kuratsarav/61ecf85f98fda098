@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3172400,RESOLUTION=1920x1080
+https://raw.githubusercontent.com/kuratsarav/61ecf85f98fda098/refs/heads/master/1080p/github_playlist_1080p.m3u8?_cb=1767694324
+#EXT-X-STREAM-INF:BANDWIDTH=2072400,RESOLUTION=1280x720
+https://raw.githubusercontent.com/kuratsarav/61ecf85f98fda098/refs/heads/master/720p/github_playlist_720p.m3u8?_cb=1767694324
